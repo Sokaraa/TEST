@@ -1,2 +1,3 @@
-# TEST
-for leaning how to make a repo from an existing project
+# yolo project 
+how to use yolo in object detection 
+
